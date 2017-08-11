@@ -3,6 +3,7 @@
 # [Operation Code](http://operationcode.org)
 [![Build Status](https://travis-ci.org/OperationCode/operationcode.svg?branch=master)](https://travis-ci.org/OperationCode/operationcode)
 [![Code Climate](https://codeclimate.com/github/OperationCode/operationcode/badges/gpa.svg)](https://codeclimate.com/github/OperationCode/operationcode)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fsethbergman%2Foperationcode.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fsethbergman%2Foperationcode?ref=badge_shield)
 
 Operation Code is an open source community dedicated to getting military veterans coding, founded by [David Molina](http://twitter.com/davidcmolina), and maintained by over a dozen [software developers](https://github.com/OperationCode/operationcode/graphs/contributors) with the support and involvement of the [startup community](http://operationcode.org/contributors).
 
@@ -44,3 +45,6 @@ Get updates on Operation Code's development.
 ## Copyright and license
 
 Ruby on Rails is released under the [MIT License](http://opensource.org/licenses/MIT).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fsethbergman%2Foperationcode.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fsethbergman%2Foperationcode?ref=badge_large)
